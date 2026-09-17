@@ -1,0 +1,5 @@
+Automação desenvolvida em PowerShell, com o uso de Inteligência Artificial (IA) como apoio no desenvolvimento e aprimoramento da solução, para localizar e copiar documentos em lote a partir dos números de propostas informados pelo usuário.
+
+A ferramenta permite inserir várias propostas e selecionar os tipos de documentos desejados, como AVERB, CCB, HOL, ANTIFRAUDE, COMP, RG e RECEITA. Em seguida, a automação pesquisa as pastas correspondentes às propostas em um diretório de origem específico, localiza os arquivos de forma recursiva e os copia para uma pasta de destino organizada por tipo documental.
+
+Durante a cópia, os documentos são renomeados automaticamente utilizando informações da proposta e do CPF presentes no nome da pasta de origem, facilitando a identificação, a organização e a conferência dos arquivos extraídos. A solução possui uma interface gráfica simples para inserção das propostas e seleção dos documentos, reduzindo atividades manuais e tornando o processo mais rápido e padronizado.
